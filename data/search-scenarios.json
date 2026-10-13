@@ -1,0 +1,5 @@
+[
+  { "id": "ps5-blanco", "term": "playstation 5", "color": "Blanco", "sort": "Menor precio", "default": true },
+  { "id": "xbox-series-x", "term": "Xbox Series X", "sort": "Menor precio" },
+  { "id": "nintendo-switch", "term": "Nintendo Switch", "sort": "Menor precio" }
+]

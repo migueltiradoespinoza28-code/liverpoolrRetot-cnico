@@ -1,0 +1,4 @@
+{
+  "_comment": "Violaciones críticas ya conocidas en el sitio (no las controlamos). El test falla solo si aparece una regla crítica NUEVA.",
+  "knownCritical": ["button-name", "label"]
+}
